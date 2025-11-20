@@ -1,0 +1,10 @@
+Welcome to the sample text file.
+This file is created to test Python file-handling functions, including error handling and safe reading.
+
+Line 1: Python is a powerful programming language.
+Line 2: It is widely used in web development, AI, data science, and automation.
+Line 3: Proper error handling is important to write reliable programs.
+Line 4: Using 'with open()' ensures files are closed automatically.
+Line 5: Try-except blocks prevent the program from crashing.
+
+
